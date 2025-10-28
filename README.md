@@ -1,1 +1,1 @@
-i like c++ and zig
+i like c++ and compilers .
