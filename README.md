@@ -9,8 +9,8 @@
    - Compilers
 
 
-- ❤️ Open source
-- 🐧 Uniux Geek 🐧
+
+- Unix enjoyer
 - I love terminals and all things CLI.Wezterm + Tmux
 - In the procces of fixing the mistakes i made in the last couple years and fixing my life
 
