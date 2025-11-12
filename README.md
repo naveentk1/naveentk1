@@ -1,7 +1,21 @@
-engine programmer , i code in c++ and go and rust(somewhat)
+### About me:
+- wandering the lands of cuda kernels
+  
 
-i like compilers and the hardware it runs on.
+### Interests:
+   - Game Engines
+   - Performance Engineering
+   - kernel Development
+   - Compilers
 
-for more information visit: tknaveen.com.(nothing much there is)
+
+- ❤️ Open source
+- 🐧 Uniux Geek 🐧
+- I love terminals and all things CLI.Wezterm + Tmux
+- In the procces of fixing the mistakes i made in the last couple years and fixing my life
+
+You can find me on [LinkedIn](https://linkedin.com/in/naveentk), read my [blog](https://tknaveen.com)
+
+or send me an [email](mailto:naveen2005830@gmail.com)
 
 
