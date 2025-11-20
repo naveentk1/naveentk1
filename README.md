@@ -4,14 +4,13 @@
 
 ### Interests:
    - Game Engines
-   - Performance Engineering
    - kernel Development
    - Compilers
 
 
 
 - Unix enjoyer
-- C++ , CUDA
+- CUDA
 - I love terminals and all things CLI.Wezterm + Tmux
 - In the procces of fixing the mistakes i made in the last couple years and fixing my life
 
