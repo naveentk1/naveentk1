@@ -1,18 +1,8 @@
 ### About me:
-- wandering the lands of cuda kernels
-  
+- i like to build cool things
 
 ### Interests:
-   - Game Engines
-   - kernel Development
-   - Compilers
-
-
-
-- Unix enjoyer
-- CUDA
-- I love terminals and all things CLI.Wezterm + Tmux
-- In the procces of fixing the mistakes i made in the last couple years and fixing my life
+- rockets & and robots.
 
 You can find me on [LinkedIn](https://linkedin.com/in/naveentk), read my [blog](https://tknaveen.com)
 
