@@ -1,8 +1,18 @@
-### About me:
-- i like to build cool things
+###About me:
 
-### Interests:
-- rockets,robots and anything hard and difficult to understand.
+- wandering the lands of cuda kernels
+
+###Interests:
+
+-kernel Development
+
+-Compilers
+
+-Unix enjoyer
+
+-CUDA
+
+In the procces of fixing the mistakes i made in the last couple years and fixing my life
 
 You can find me on [LinkedIn](https://linkedin.com/in/naveentk), read my [blog](https://tknaveen.com)
 
