@@ -1,16 +1,7 @@
 ###About me:
 
-- wandering the lands of cuda kernels
+- wandering the lands of Programmable Gate Arrays
 
-###Interests:
-
-- kernel Development
-
-- Compilers
-
-- Unix enjoyer
-
-- CUDA
 
 In the procces of fixing the mistakes i made in the last couple years and fixing my life
 
