@@ -1,4 +1,4 @@
-###About me:
+# **About me:**
 
 - wandering the lands of Programmable Gate Arrays
 
