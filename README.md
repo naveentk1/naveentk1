@@ -10,7 +10,7 @@
 -       low level programming
 -       gpu programming
 -       rockets, missiles and satellites.
--       beautiful women and buildings. 
+
 
 - You can find me on  [tknaveen.com](https://tknaveen.com)
 
